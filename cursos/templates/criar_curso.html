@@ -1,0 +1,28 @@
+{% extends "inicio.html" %}
+{% load bootstrap5 %}
+{% block principal %}
+
+
+  {% if sucesso%}
+    <div class="alert alert-success" role="alert">
+      Curso realizado com sucesso!
+    </div>
+  {% else %}
+
+  <form action="" method="POST" id="form">
+    {% csrf_token %}
+    {% bootstrap_form form %}
+    <button type="submit" class="btn btn-danger">Cadastrar curso</button>
+  </form>
+
+{% endif %}
+<hr>
+<br>
+<h1>Cursos cadastrados</h1><br>
+{% for curso in cursos %}
+  <p>{{curso.titulo}}</p>
+
+{% endfor %}
+
+<a href="{% url 'inicio' %}" class="btn btn-primary mt-lg-5">Voltar ao Início</a>
+{% endblock %}
