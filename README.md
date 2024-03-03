@@ -19,4 +19,4 @@
 
 ### A qualidade do código é garantida através de testes automatizados utilizando pytest. Isso ajuda a identificar e corrigir possíveis problemas de forma proativa, mantendo a estabilidade e confiabilidade do sistema em todas as etapas de desenvolvimento.
 
-### No geral, o sistema oferece uma solução completa e escalável para o gerenciamento de cursos online, atendendo tanto às necessidades dos usuários finais quanto às exigências dos desenvolvedores no que diz respeito à manutenção e expansão do sistema.
+### No geral, o sistema oferece uma solução escalável para o gerenciamento de cursos online, atendendo tanto às necessidades dos usuários finais quanto às exigências dos desenvolvedores no que diz respeito à manutenção e expansão do sistema.
