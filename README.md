@@ -1,7 +1,7 @@
 ## Bootcamp Python & Django - 🦋 WoMakers Code 🦋
-* Meu agradecimento especial à professora Isadora Ferrão 🙏
+* Meu agradecimento especial à professora Isadora Ferrão 🙏💖
 
-## Sistema de Cadastro de Cursos
+## Sistema para Cadastrar Cursos 📝
 
 ### Acesse: [Link para a documentação](https://github.com/luanaxcardoso/Cadastro_de_Cursos/blob/main/documentacao.md)
 
