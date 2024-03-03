@@ -1,6 +1,8 @@
-## Bootcamp Python & Django - WoMakers Code
+## Bootcamp Python & Django - 🦋 WoMakers Code 🦋
+* Meu agradecimento especial à professora Isadora Ferrão 🙏
 
 ## Sistema de Cadastro de Cursos
+
 ### Acesse: [Link para a documentação](https://github.com/luanaxcardoso/Cadastro_de_Cursos/blob/main/documentacao.md)
 
 ### Desenvolvido em Python com o framework Django.
@@ -17,4 +19,4 @@
 
 ### A qualidade do código é garantida através de testes automatizados utilizando pytest. Isso ajuda a identificar e corrigir possíveis problemas de forma proativa, mantendo a estabilidade e confiabilidade do sistema em todas as etapas de desenvolvimento.
 
-No geral, o sistema oferece uma solução completa e escalável para o gerenciamento de cursos online, atendendo tanto às necessidades dos usuários finais quanto às exigências dos desenvolvedores no que diz respeito à manutenção e expansão do sistema.
+### No geral, o sistema oferece uma solução completa e escalável para o gerenciamento de cursos online, atendendo tanto às necessidades dos usuários finais quanto às exigências dos desenvolvedores no que diz respeito à manutenção e expansão do sistema.
